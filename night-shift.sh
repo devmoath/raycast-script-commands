@@ -6,7 +6,7 @@
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon icons/night-shift.png
 # @raycast.argument1 { "type": "text", "placeholder": "[h|help] to get the usage" }
 # @raycast.packageName night-shift
 
