@@ -2,12 +2,13 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Restart Wi-Fi
+# @raycast.title Restart wifi
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
-# @raycast.packageName restart-wi-fi
+# @raycast.icon icons/refresh-dark.png
+# @raycast.iconDark icons/refresh-light.png
+# @raycast.packageName restart-wifi
 
 # Documentation:
 # @raycast.author Moath Alhajri

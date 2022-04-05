@@ -2,12 +2,13 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Turn On Wi-FI
+# @raycast.title Turn On wifi
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
-# @raycast.packageName turn-on-wi-if
+# @raycast.icon icons/wifi-dark.png
+# @raycast.iconDark icons/wifi-light.png
+# @raycast.packageName turn-on-wifi
 
 # Documentation:
 # @raycast.author Moath Alhajri
