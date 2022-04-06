@@ -18,6 +18,9 @@ if ! command -v ttab &>/dev/null; then
     exit 1
 fi
 
+# open iTerm in the background
+open -a iTerm -g
+
 ttab -a iTerm2 -d '' "$1"
 
 echo 'Your command has been ran'
